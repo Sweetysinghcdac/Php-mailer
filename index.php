@@ -2,7 +2,7 @@
 $to = "recipient@example.com"; // Replace with the recipient's email address
 $subject = "Test Email";
 $message = "This is a test email sent via GoDaddy's SMTP server using the mail() function in PHP.";
-
+// djhsfjhsjdfkjskjdfck
 $headers = "From: your-email@example.com"; // Replace with your GoDaddy email address
 
 $smtpServer = "smtpout.secureserver.net"; // GoDaddy's SMTP server
@@ -17,3 +17,5 @@ if (mail($to, $subject, $message, $headers, $additional_parameters)) {
     echo "Email could not be sent.";
 }
 ?>
+<!-- aadsnfjsdhgfjdjflsdjfjksdb -->
+<!-- aadsnfjsdhgfjdjflsdjfjksdb -->
