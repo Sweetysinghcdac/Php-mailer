@@ -17,5 +17,4 @@ if (mail($to, $subject, $message, $headers, $additional_parameters)) {
     echo "Email could not be sent.";
 }
 ?>
-<!-- aadsnfjsdhgfjdjflsdjfjksdb -->
-<!-- aadsnfjsdhgfjdjflsdjfjksdb -->
+
